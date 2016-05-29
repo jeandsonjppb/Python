@@ -1,0 +1,4 @@
+['João e Maria', 2]
+['João e Maria', 2, 'Gestão empresarial', 45]
+['Rede de computadores', 34]
+['Sistemas operacionais', 2]
